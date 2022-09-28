@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbsup</folder>
+	<filename>3.jpg</filename>
+	<path>C:\project\python\tensflow-object-detaction\tensoflow\workspace\images\collectedImages\thumbsup\3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>408</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ThumbUp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>164</ymin>
+			<xmax>155</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>
